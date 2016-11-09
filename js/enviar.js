@@ -18,7 +18,7 @@ $('#enviar').click(function() {
 		   alert ("Uy!") ; 	}
 		   
 	if ( opciones.value == "te amo") {
-		  alert ("¡tranquilo viejo!") ; }    
+		  alert ("Uououo ¡Tranquilo Viejo!") ; }    
 		   
 		    	   
 
