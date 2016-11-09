@@ -52,7 +52,7 @@ function runScript(e) {
 		   alert ("Uy!") ; 	}
 		   
 	if ( opciones.value == "te amo") {
-		alert ("Uo Uo Uo") ; }    
+		alert ("Uououo ¡Tranquilo Viejo!") ; }    
 		   
 	}	    	   
 
